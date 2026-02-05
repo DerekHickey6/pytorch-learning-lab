@@ -24,6 +24,15 @@ This repository exists to:
 - Jupyter Notebooks
 - Google Colab (for prototyping and experimentation)
 
+## Learning Progression
+
+The notebooks in this repository roughly follow this progression:
+1. PyTorch fundamentals and tensor operations
+2. Model definition and custom training workflows
+3. Dataset creation and data loading
+4. Neural network classification
+5. Computer vision and CNN-based models
+
 ## What You’ll Find Here
 
 Examples of topics covered include:
